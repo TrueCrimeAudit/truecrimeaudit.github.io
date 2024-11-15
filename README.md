@@ -1,5 +1,5 @@
 ### Indiana v. Richard Allen
-[True Crime Audit](truecrimeaudit.github.io)
+https://truecrimeaudit.github.io/
 
 ## This isn't over, at all.
 
